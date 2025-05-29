@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mbongiseni Ntimane</h1>
+<a href="https://mbongisenintimane.github.io/MY-PORTFOLIO/">MY PORTFOLIO</a>
 <h3 align="center">I am a aspiring Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbongisenintimane&label=Profile%20views&color=0e75b6&style=flat" alt="mbongisenintimane" /> </p>
