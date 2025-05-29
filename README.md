@@ -4,8 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbongisenintimane&label=Profile%20views&color=0e75b6&style=flat" alt="mbongisenintimane" /> </p>
 
-- 🌱 I’m currently learning **Java**
-<a href="https://mbongisenintimane.github.io/MY-PORTFOLIO/">MY PORTFOLIO</a> <br></br>
+- 🌱 I’m currently learning **Java** <br></br>
+<a href="https://mbongisenintimane.github.io/MY-PORTFOLIO/">MY PORTFOLIO</a> 
 - 📫 How to reach me **ntimanembongiseni11532003@gmail.com**
 
 - ⚡ Fun fact **I am actually Multilingual I know different South African languages**
